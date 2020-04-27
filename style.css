@@ -11,7 +11,7 @@
     position: fixed;
     display: absolute;
     font-family: consolas;
-    font-size: 100px;
+    font-size: 25px;
     transition: 0.5s;
 }
 #homebutton:hover{
